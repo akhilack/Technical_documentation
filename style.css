@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  color: black;
+  color:white;
   margin: 10px;
   text-align: center;
   font-size: 1.8em;
@@ -93,7 +93,7 @@ code {
   }
 
   #navbar {
-    background-color: white;
+    background-color: black;
     position: absolute;
     top: 0;
     padding: 0;
